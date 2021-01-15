@@ -20,6 +20,7 @@
 [<img align="left" alt="JS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/726px-Javascript-shield.svg.png">][JS]
 [<img align="left" alt="Visual studios" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png">][VisualStudios]
 [<img align="left" alt="Visual studios Code" width="34px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png">][VisualStudiosCode]
+[<img align="left" alt="CSS" width="34px" src="https://i.dlpng.com/static/png/7139180_preview.png">][CSS]
 <br />
 <br />
 
@@ -33,4 +34,5 @@
 [JS]: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/726px-Javascript-shield.svg.png
 [VisualStudios]: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png
 [VisualStudiosCode]: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png
+[CSS]:
 
