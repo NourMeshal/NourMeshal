@@ -8,13 +8,12 @@
 - 🌐 Website Developer
 - ⚽ 2021 Goals: Teaching the largest group of people how to build games  
 
-### connect with me
-[<img align="left" alt="Unity" width="22px" src="https://i.pinimg.com/originals/bb/18/bd/bb18bdbbef437b2d50518db5a8292c94.png">][email]
 <br />
 
 
  ### Languages and Tools:
 [<img align="left" alt="Unity" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/unity-512.png">][unity]
+[<img align="left" alt="cSharp" width="26px" src="https://pluralsight.imgix.net/paths/path-icons/csharp-e7b8fcd4ce.png">][cSharp]
 <br />
 <br />
 
