@@ -12,7 +12,7 @@
 
  ### Languages and Tools:
 [<img align="left" alt="Unity" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/unity-512.png">][unity]
-[<img align="left" alt="Unity" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fworldvectorlogo.com%2Flogo%2Fc-">][unity]
+[<img align="left" alt="Unity" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fworldvectorlogo.com%2Flogo%2Fc-.png">][unity]
 <br />
 <br />
 
