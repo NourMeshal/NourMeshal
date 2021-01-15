@@ -12,7 +12,7 @@
 
  ### Languages and Tools:
 [<img align="left" alt="Unity" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/unity-512.png">][unity]
-[<img align="left" alt="Unity" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AVisual_Studio_Icon_2019.svg&psig=AOvVaw2eTdkKt-3330FfrMAPdcBA&ust=1610752902177000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPiyuKbInO4CFQAAAAAdAAAAABAD">][unity]
+[<img align="left" alt="Unity" width="26px" src="https://www.iconfinder.com/icons/4202060/swift_logo_social_social_media_icon">
 <br />
 <br />
 
