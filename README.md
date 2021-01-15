@@ -12,7 +12,6 @@
 
  ### Languages and Tools:
 [<img align="left" alt="Unity" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/unity-512.png">][unity]
-[<img align="left" alt="Unity" width="26px" src="https://iconscout.com/icon/csharp-1#">][unity]
 <br />
 <br />
 
