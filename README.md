@@ -1,11 +1,11 @@
-### Hi there 👋
 
 
 
-## Role: Whoever enters the world of programming cannot stop
-- 🎮 Game Programmer
-- 🍎 iOS Apps Programmer
-- 🌐 Website Programmer
+
+## Never Stop Dreaming 🌠
+- 🎮 Game Developer
+- 🍎 iOS Apps Developer
+- 🌐 Website Developer
 - ⚽ 2021 Goals: Teaching the largest group of people how to build games  
 <br />
 
