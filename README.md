@@ -12,8 +12,8 @@
 
 
  ### Languages and Tools:
-[<img align="left" alt="Unity" width="30px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/unity-512.png">][unity]
-[<img align="left" alt="cSharp" width="26px" src="https://pluralsight.imgix.net/paths/path-icons/csharp-e7b8fcd4ce.png">][cSharp]
+[<img align="left" alt="Unity" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/unity-512.png">][unity]
+[<img align="left" alt="cSharp" width="26px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg">][cSharp]
 <br />
 <br />
 
